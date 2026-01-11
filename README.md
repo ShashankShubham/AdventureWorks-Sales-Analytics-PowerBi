@@ -88,19 +88,42 @@ The project utilizes multiple CSV files containing:
 
 ## 📊 Dashboard & Insights
 
-The Power BI dashboard provides:
+### 📈 Dashboard Pages
 
-* Executive-level KPI summary
-* Regional performance heatmaps
-* Product and category contribution analysis
-* Customer segmentation visuals
+#### 1. Executive Dashboard
 
-**Key Insights:**
+**Key Metrics:**
 
-* Certain regions consistently outperform others in profitability
-* A small percentage of customers contribute significantly to total revenue
-* Specific product categories drive higher margins despite lower volumes
+* Total Revenue: ₹24.9M
+* Total Profit: ₹10.5M
+* Total Orders: 25.2K
+* Return Rate: 2.2%
 
+**Visualizations:**
+
+* Revenue trending line chart with forecasting
+* Order distribution by category (Accessories, Bikes, Clothing)
+* Top 10 products by orders, revenue, and return percentage
+* Monthly KPI cards with month-over-month comparison
+* Most ordered and returned product type analysis
+
+#### 2. Customer Detail Dashboard
+
+<img width="1489" height="814" alt="image" src="https://github.com/user-attachments/assets/7c3e064a-f01a-49dc-a5fb-182f9c9b5b16" />
+
+
+**Key Metrics:**
+
+* Unique Customers: 17.4K
+* Revenue per Customer: ₹1,431
+
+**Visualizations:**
+
+* Revenue per customer trend over time
+* Top 100 customers table with order count and revenue
+* Customer segmentation by income level (High, Average, Low)
+* Customer distribution by occupation (Professional, Management, Skilled Manual)
+* Individual customer profile with detailed metrics
 ---
 
 ## 🚀 Business Impact
