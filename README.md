@@ -91,6 +91,7 @@ The project utilizes multiple CSV files containing:
 ### 📈 Dashboard Pages
 
 #### 1. Executive Dashboard
+<img width="1538" height="809" alt="image" src="https://github.com/user-attachments/assets/fad9fb5b-f349-44a9-8fe0-df2a69dbe0f3" />
 
 **Key Metrics:**
 
@@ -104,12 +105,11 @@ The project utilizes multiple CSV files containing:
 * Revenue trending line chart with forecasting
 * Order distribution by category (Accessories, Bikes, Clothing)
 * Top 10 products by orders, revenue, and return percentage
-* Monthly KPI cards with month-over-month comparison
+* KPI cards including Revnue, Profit, Order, Return Rate
 * Most ordered and returned product type analysis
 
 #### 2. Customer Detail Dashboard
-
-<img width="1489" height="814" alt="image" src="https://github.com/user-attachments/assets/7c3e064a-f01a-49dc-a5fb-182f9c9b5b16" />
+<img width="1489" height="817" alt="image" src="https://github.com/user-attachments/assets/a650d78f-36d4-4624-883b-af84f40fb487" />
 
 
 **Key Metrics:**
@@ -123,7 +123,7 @@ The project utilizes multiple CSV files containing:
 * Top 100 customers table with order count and revenue
 * Customer segmentation by income level (High, Average, Low)
 * Customer distribution by occupation (Professional, Management, Skilled Manual)
-* Individual customer profile with detailed metrics
+
 ---
 
 ## 🚀 Business Impact
@@ -134,22 +134,4 @@ The project utilizes multiple CSV files containing:
 
 ---
 
-## 🔍 Learnings & Takeaways
 
-* Improved hands-on experience with SQL joins and aggregations
-* Strengthened analytical thinking from a business perspective
-* Enhanced dashboard storytelling and visualization skills
-
----
-
-## 📎 Future Enhancements
-
-* Automate data refresh and pipeline integration
-* Add predictive analysis for sales forecasting
-* Include drill-down reports for operational teams
-
----
-
-## 📬 Contact
-
-If you’d like to discuss this project or provide feedback, feel free to connect with me on LinkedIn.
