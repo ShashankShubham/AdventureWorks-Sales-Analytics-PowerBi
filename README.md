@@ -63,6 +63,8 @@ The project utilizes multiple CSV files containing:
 * Established **one-to-many relationships** between tables
 * Implemented an optimized data model with proper **cardinality and performance considerations**
 
+### 4. DAX Calculations
+* To support advanced analytics, I created a comprehensive set of custom DAX measures. By avoiding Quick Measures and writing optimized DAX code, I ensured precise calculations, improved performance, and full control over business logic.
 ---
 
 ## 📈 Key Analysis & KPIs
