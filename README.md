@@ -45,12 +45,6 @@ The project utilizes multiple CSV files containing:
 
 ---
 
-## 🧹 Data Cleaning & Preparation
-
-Here’s a clean, **GitHub-ready Markdown version** you can drop directly into a `README.md`. I’ve polished the wording slightly to sound professional and consistent with data/BI projects.
-
----
-
 ## 📊 Data Preparation & Modeling
 
 ### 1. Data Connection
