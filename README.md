@@ -124,6 +124,25 @@ The project utilizes multiple CSV files containing:
 * Customer segmentation by income level (High, Average, Low)
 * Customer distribution by occupation (Professional, Management, Skilled Manual)
 
+#### 3. Product Detail
+<img width="1266" height="811" alt="image" src="https://github.com/user-attachments/assets/4c6a884b-6af6-48e9-901d-3dc6859169e5" />
+
+
+**Visualizations:**
+
+* Monthly orders vs target gauge charts
+* Monthly revenue vs target performance
+* Monthly profit vs target tracking
+* Price adjustment slider for scenario analysis
+* Total profit vs adjusted profit comparison
+
+*  Understandably, tires and tubes are the most ordered product type, while cycling shorts are the most returned product type. After mountain bike fenders, sports helmets top the list of revenue-generating products, despite having relatively high return rates:
+  <img width="420" height="217" alt="image" src="https://github.com/user-attachments/assets/00fb4577-1309-45d5-853f-9e83e4ff7b23" />
+
+
+*  The most profitable product categories are clothing and accessories.
+
+
 ---
 
 ## 🚀 Business Impact
