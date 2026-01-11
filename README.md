@@ -21,27 +21,46 @@ The management team required a robust analytics platform to:
 ## 📂 Dataset Description
 
 The project utilizes multiple CSV files containing:
-* Data was sourced from a publicly available business dataset and cleaned for analysis.
-* Granularity: Order-level data
+* AdventureWorks Calendar Lookup
+* AdventureWorks Customer Lookup
+* AdventureWorks Product Categories Lookup
+* AdventureWorks Product Lookup
+* AdventureWorks Product Subcategories Lookup
+* AdventureWorks Returns Data
+* AdventureWorks Sales Data 2020
+* AdventureWorks Sales Data 2021
+* AdventureWorks Sales Data 2022
+* AdventureWorks Territory Lookup
+(All these files are in Data folder)
 
 ---
 
 ## 🛠️ Tools & Technologies Used
 
-* **Excel** – Data cleaning, preprocessing, and validation
-* **SQL (MySQL)** – Data modeling, joins, aggregations, and KPI calculations
-* **Power BI** – Interactive dashboards and data visualization
+* **Power BI Desktop:** Primary development platform
+* **Power Query:** Data transformation and ETL
+* **DAX:** Calculations and measures
+* **Data Modeling:** Established a snowflake schema to connect disparate data sources.
+* **Excel/CSV:** Source data format
 
 ---
 
 ## 🧹 Data Cleaning & Preparation
 
-Key data preparation steps included:
+**Data Preparation & Modeling**
 
-* Handling missing and inconsistent values
-* Standardizing date and categorical formats
-* Creating calculated fields for revenue, profit, and margins
-* Designing relational tables for efficient querying
+* 1 **Data Connection:** Connected to raw CSV files using Power Query
+* 2 **Data Transformation:**
+
+* Cleaned and standardized data formats
+* Created proper data types for each column
+* Created new derived columns from existing data to improve dashboard insights.
+
+* 3 **Data Modeling:**
+
+* Built a Snowflake schema with fact and dimension tables
+* Established relationships between tables (one-to-many)
+* Implemented efficient data model with proper cardinality
 
 ---
 
