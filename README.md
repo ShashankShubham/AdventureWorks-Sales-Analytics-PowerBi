@@ -47,20 +47,27 @@ The project utilizes multiple CSV files containing:
 
 ## 🧹 Data Cleaning & Preparation
 
-**Data Preparation & Modeling**
+Here’s a clean, **GitHub-ready Markdown version** you can drop directly into a `README.md`. I’ve polished the wording slightly to sound professional and consistent with data/BI projects.
 
-* 1 **Data Connection:** Connected to raw CSV files using Power Query
-* 2 **Data Transformation:**
+---
 
-*    Cleaned and standardized data formats
-*    Created proper data types for each column
-*    Created new derived columns from existing data to improve dashboard insights.
+## 📊 Data Preparation & Modeling
 
-* 3 **Data Modeling:**
+### 1. Data Connection
 
-*    Built a Snowflake schema with fact and dimension tables
-*    Established relationships between tables (one-to-many)
-*    Implemented efficient data model with proper cardinality
+* Connected to raw CSV files using **Power Query**
+
+### 2. Data Transformation
+
+* Cleaned and standardized data formats
+* Assigned appropriate data types to each column
+* Created **derived columns** from existing data to enhance analytical insights
+
+### 3. Data Modeling
+
+* Designed a **Snowflake schema** with fact and dimension tables
+* Established **one-to-many relationships** between tables
+* Implemented an optimized data model with proper **cardinality and performance considerations**
 
 ---
 
