@@ -52,15 +52,15 @@ The project utilizes multiple CSV files containing:
 * 1 **Data Connection:** Connected to raw CSV files using Power Query
 * 2 **Data Transformation:**
 
-* Cleaned and standardized data formats
-* Created proper data types for each column
-* Created new derived columns from existing data to improve dashboard insights.
+*    Cleaned and standardized data formats
+*    Created proper data types for each column
+*    Created new derived columns from existing data to improve dashboard insights.
 
 * 3 **Data Modeling:**
 
-* Built a Snowflake schema with fact and dimension tables
-* Established relationships between tables (one-to-many)
-* Implemented efficient data model with proper cardinality
+*    Built a Snowflake schema with fact and dimension tables
+*    Established relationships between tables (one-to-many)
+*    Implemented efficient data model with proper cardinality
 
 ---
 
